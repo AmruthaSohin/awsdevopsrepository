@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Welcome to your CDK Python project!
 
@@ -56,3 +57,7 @@ command.
  * `cdk docs`        open CDK documentation
 
 Enjoy!
+=======
+# awsdevopsrepository
+awsdevopsrepository is created for doing cdk and terraform demos. Which include all CI/CD activities part of Devops team work
+>>>>>>> 96d3444dd67348014224a1af927175df37cc25c4
