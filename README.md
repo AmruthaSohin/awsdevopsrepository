@@ -4,6 +4,7 @@
 
 This is a blank project for CDK development with Python.
 
+
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 This project is set up like a standard Python project.  The initialization
